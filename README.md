@@ -1,3 +1,4 @@
 # Learning Mathematic with python 
 
-1. 
+1. Vectors
+2. 
